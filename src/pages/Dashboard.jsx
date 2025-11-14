@@ -1,10 +1,10 @@
 import { Plus } from 'lucide-react'
 import { useState } from 'react'
-import StatsGrid from '../components/StatsGrid'
-import ProjectOverview from '../components/ProjectOverview'
-import RecentActivity from '../components/RecentActivity'
-import TasksSummary from '../components/TasksSummary'
-import CreateProjectDialog from '../components/CreateProjectDialog'
+import StatsGrid from '../components/StatsGrid.jsx'
+import ProjectOverview from '../components/ProjectOverview.jsx'
+import RecentActivity from '../components/RecentActivity.jsx'
+import TasksSummary from '../components/TasksSummary.jsx'
+import CreateProjectDialog from '../components/CreateProjectDialog.jsx'
 
 const Dashboard = () => {
 

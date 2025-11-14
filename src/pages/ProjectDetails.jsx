@@ -2,11 +2,11 @@ import { useState, useEffect } from "react";
 import { useSelector } from "react-redux";
 import { useNavigate, useSearchParams } from "react-router-dom";
 import { ArrowLeftIcon, PlusIcon, SettingsIcon, BarChart3Icon, CalendarIcon, FileStackIcon, ZapIcon } from "lucide-react";
-import ProjectAnalytics from "../components/ProjectAnalytics";
-import ProjectSettings from "../components/ProjectSettings";
-import CreateTaskDialog from "../components/CreateTaskDialog";
-import ProjectCalendar from "../components/ProjectCalendar";
-import ProjectTasks from "../components/ProjectTasks";
+import ProjectAnalytics from "../components/ProjectAnalytics.jsx";
+import ProjectSettings from "../components/ProjectSettings.jsx";
+import CreateTaskDialog from "../components/CreateTaskDialog.jsx";
+import ProjectCalendar from "../components/ProjectCalendar.jsx";
+import ProjectTasks from "../components/ProjectTasks.jsx";
 
 export default function ProjectDetail() {
 

@@ -1,11 +1,11 @@
 import { Routes, Route } from "react-router-dom";
-import Layout from "./pages/Layout";
+import Layout from "./pages/Layout.jsx";
 import { Toaster } from "react-hot-toast";
-import Dashboard from "./pages/Dashboard";
-import Projects from "./pages/Projects";
-import Team from "./pages/Team";
-import ProjectDetails from "./pages/ProjectDetails";
-import TaskDetails from "./pages/TaskDetails";
+import Dashboard from "./pages/Dashboard.jsx";
+import Projects from "./pages/Projects.jsx";
+import Team from "./pages/Team.jsx";
+import ProjectDetails from "./pages/ProjectDetails.jsx";
+import TaskDetails from "./pages/TaskDetails.jsx";
 
 const App = () => {
     return (

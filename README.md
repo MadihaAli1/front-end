@@ -2,7 +2,7 @@
   <h1><img src="https://project-management-gs.vercel.app/favicon.ico" width="20" height="20" alt="project-management Favicon">
    project-management</h1>
   <p>
-    An open-source project management platform built with ReactJS and Tailwind CSS.
+    An project management app built with ReactJS and Tailwind CSS.
   </p>
   <p>
     <a href="https://github.com/GreatStackDev/project-management/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/GreatStackDev/project-management?style=for-the-badge" alt="License"></a>
